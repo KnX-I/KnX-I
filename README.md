@@ -15,4 +15,6 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guivalencia&show_icons=true&theme=dark)
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Sou um Analista de Desenvolvimento de Sistemas na BigTrading. Tenho um bacharelado em Sistemas de Informação pela FUCAPI, onde aprendi as bases teóricas e práticas da programação, análise e design de sistemas.
+
+Na BigTrading, sou responsável por desenvolver sistemas web utilizando principalmente o PHP. Além disso, estudo e aplico as tecnologias como Laravel, React, Next.Js e Node.Js, que me permitem criar projetos inovadores e eficientes, contribuindo para as diversas áreas da empresa. Sou apaixonado por aprender novas ferramentas e metodologias, e busco sempre melhorar a qualidade e a performance dos sistemas que desenvolvo.
