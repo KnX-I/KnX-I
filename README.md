@@ -13,4 +13,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=KnX-I&show_icons=true&theme=dark)
+
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
