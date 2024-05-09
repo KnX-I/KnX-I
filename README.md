@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Guilherme Valencia 🖐️
 
-## Tecnologias que eu uso no meu dia
+Sou um Analista de Desenvolvimento de Sistemas na BigTrading. Tenho um bacharelado em Sistemas de Informação pela FUCAPI, onde aprendi as bases teóricas e práticas da programação, análise e design de sistemas.
 
+Na BigTrading, sou responsável por desenvolver sistemas web utilizando principalmente o PHP. Além disso, estudo e aplico as tecnologias como Laravel, React, Next.Js e Node.Js, que me permitem criar projetos inovadores e eficientes, contribuindo para as diversas áreas da empresa. Sou apaixonado por aprender novas ferramentas e metodologias, e busco sempre melhorar a qualidade e a performance dos sistemas que desenvolvo.
+
+## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -14,8 +17,5 @@
 </div><br/>
 
 
-Sou um Analista de Desenvolvimento de Sistemas na BigTrading. Tenho um bacharelado em Sistemas de Informação pela FUCAPI, onde aprendi as bases teóricas e práticas da programação, análise e design de sistemas.
-
-Na BigTrading, sou responsável por desenvolver sistemas web utilizando principalmente o PHP. Além disso, estudo e aplico as tecnologias como Laravel, React, Next.Js e Node.Js, que me permitem criar projetos inovadores e eficientes, contribuindo para as diversas áreas da empresa. Sou apaixonado por aprender novas ferramentas e metodologias, e busco sempre melhorar a qualidade e a performance dos sistemas que desenvolvo.
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guivalencia&show_icons=true&theme=dark)
