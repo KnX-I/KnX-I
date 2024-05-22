@@ -16,8 +16,4 @@ Na BigTrading, sou responsável por desenvolver sistemas web utilizando principa
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-
-
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guivalencia&show_icons=true&theme=dark)
-
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guivalencia&show_icons=true&langs_count=10&layout=compact&theme=dark&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
